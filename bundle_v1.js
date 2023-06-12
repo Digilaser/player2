@@ -1,7 +1,7 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "https://raw.githubusercontent.com/Digilaser/audio_player_evolution_v1.0.0/main/src/logo.svg":
+/***/ "./src/logo.svg":
 /*!**********************!*\
   !*** ./src/logo.svg ***!
   \**********************/
@@ -44,7 +44,7 @@ function SvgLogo(_ref, svgRef) {
   }))));
 }
 const ForwardRef = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.forwardRef(SvgLogo);
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "https://raw.githubusercontent.com/Digilaser/audio_player_evolution_v1.0.0/main/src/logo.svg");
 
 
 /***/ }),
